@@ -6,7 +6,7 @@ module.exports = {
     nav: [
       { text: '首页', link: '/' },
       {
-        text: '面试题',
+        text: '知识清单',
         link: '/interviews/',
       },
       {
